@@ -1,5 +1,4 @@
 import board
-import feathers2
 import time
 import socketpool
 import adafruit_ntp     #Modified library
